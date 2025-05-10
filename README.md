@@ -1,6 +1,7 @@
 # Snake Game
 
 My first university project—a simple Snake Game made in OpenGL.reviving the nostalgia of childhood gaming. Smooth movement, retro vibes, and pure coding joy!
+
 Control a snake, eat food, grow longer, and avoid collisions with walls and yourself.
 
 ![Snake Game](https://github.com/sigma-asif/snake-game-opengl/blob/958901a4ad784faac5a4ab77ded8534df4818ea0/screenshots/gameplay.png)
