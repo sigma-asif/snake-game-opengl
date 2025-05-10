@@ -6,7 +6,7 @@ My first university project—a simple Snake Game made in OpenGL.reviving the no
 My first university project—a simple Snake Game made in OpenGL.reviving the nostalgia of childhood gaming. Smooth movement, retro vibes, and pure coding joy!
 Control a snake, eat food, grow longer, and avoid collisions with walls and yourself.
 
-![Snake Game](https://github.com/sigma-asif/snake-game-opengl/raw/main/screenshots/gameplay.png)
+![Snake Game](https://github.com/sigma-asif/snake-game-opengl/blob/958901a4ad784faac5a4ab77ded8534df4818ea0/screenshots/gameplay.png)
 
 ## Features
 
@@ -80,9 +80,10 @@ Control a snake, eat food, grow longer, and avoid collisions with walls and your
 
 ## Screenshots
 
-![Main Menu](https://github.com/sigma-asif/snake-game-opengl/raw/main/screenshots/menu.png)
-![Gameplay](https://github.com/sigma-asif/snake-game-opengl/raw/main/screenshots/gameplay.png)
-![Game Over](https://github.com/sigma-asif/snake-game-opengl/raw/main/screenshots/gameover.png)
+![Main Menu](https://github.com/sigma-asif/snake-game-opengl/blob/958901a4ad784faac5a4ab77ded8534df4818ea0/screenshots/menu.png)
+![Main Menu](https://github.com/sigma-asif/snake-game-opengl/blob/958901a4ad784faac5a4ab77ded8534df4818ea0/screenshots/menu2.png)
+![Gameplay](https://github.com/sigma-asif/snake-game-opengl/blob/958901a4ad784faac5a4ab77ded8534df4818ea0/screenshots/gameplay.png)
+![Game Over](https://github.com/sigma-asif/snake-game-opengl/blob/958901a4ad784faac5a4ab77ded8534df4818ea0/screenshots/gameover.png)
 
 ## Contributing
 
@@ -95,4 +96,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Special thanks to the OpenGL and GLUT communities
-- Inspired by the classic Snake game from the 1970s
